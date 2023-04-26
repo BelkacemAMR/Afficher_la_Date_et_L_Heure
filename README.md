@@ -21,3 +21,8 @@ Cela affichera la date et l'heure actuelles dans le format suivant :
 ```python
 Today is 2023-04-26 and it is 11:24:35.
 ```
+
+
+# Remarque
+
+Ce programme peut être utile pour inclure la date et l'heure actuelles dans d'autres programmes Python ou pour effectuer des tâches planifiées qui nécessitent une référence temporelle.
