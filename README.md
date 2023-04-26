@@ -7,3 +7,9 @@ l'objet de manière à afficher la date et l'heure dans un format convivial pour
 # Comment utiliser le programme? 
 
 Le programme est simple et ne nécessite aucune entrée de l'utilisateur. Il suffit de l'exécuter avec Python pour afficher la date et l'heure actuelles.
+
+## Exemple d'utilisation :
+
+```python
+python3 datetime_now.py
+```
