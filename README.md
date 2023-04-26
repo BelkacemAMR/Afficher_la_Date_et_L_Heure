@@ -13,3 +13,9 @@ Le programme est simple et ne nécessite aucune entrée de l'utilisateur. Il suf
 ```python
 python3 datetime_now.py
 ```
+
+Cela affichera la date et l'heure actuelles dans le format suivant :
+
+```python
+Today is 2023-04-26 and it is 11:24:35.
+```
