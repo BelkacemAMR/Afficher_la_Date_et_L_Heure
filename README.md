@@ -3,3 +3,7 @@
 Ce programme en Python utilise le module datetime pour afficher la date et l'heure actuelles. 
 Il utilise la fonction "now()" pour obtenir l'objet datetime représentant la date et l'heure actuelles, puis utilise la méthode "strftime()" pour formater
 l'objet de manière à afficher la date et l'heure dans un format convivial pour l'utilisateur.
+
+# Comment utiliser le programme? 
+
+Le programme est simple et ne nécessite aucune entrée de l'utilisateur. Il suffit de l'exécuter avec Python pour afficher la date et l'heure actuelles.
